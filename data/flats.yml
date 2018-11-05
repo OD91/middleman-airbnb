@@ -1,0 +1,35 @@
+- city: 'Berlin'
+  country: 'Germany'
+  first_name: 'Boris'
+  last_name: 'Achim'
+  user_name: 'bachim'
+  title: 'Boris home'
+  description: 'Charming room in Berlin'
+  rating: 4
+
+- city: 'Paris'
+  country: 'France'
+  first_name: 'Sebastien'
+  last_name: 'Saunier'
+  user_name: 'ssaunier'
+  title: 'Sebastien home'
+  description: 'Charming room in Paris'
+  rating: 3
+
+- city: 'Barcelona'
+  country: 'Spain'
+  first_name: 'Sanchez'
+  last_name: 'Lopez'
+  user_name: 'slopez'
+  title: 'Sanchez home'
+  description: 'Charming room in Madrid'
+  rating: 2
+
+- city: 'London'
+  country: 'UK'
+  first_name: 'Andrew'
+  last_name: 'McLean'
+  user_name: 'mclean'
+  title: 'Andrews home'
+  description: 'Charming room in London'
+  rating: 5
