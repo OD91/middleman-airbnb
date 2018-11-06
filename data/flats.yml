@@ -1,35 +1,63 @@
-- city: 'Berlin'
-  country: 'Germany'
+papillard:
+  city: 'Tokyo'
+  country: 'Japan'
   first_name: 'Boris'
-  last_name: 'Achim'
-  user_name: 'bachim'
+  last_name: 'Papillard'
   title: 'Boris home'
-  description: 'Charming room in Berlin'
+  description: 'Charming room in Tokyo'
+  wifi: true
   rating: 4
 
-- city: 'Paris'
+ssaunier:
+  city: 'Paris'
   country: 'France'
   first_name: 'Sebastien'
   last_name: 'Saunier'
-  user_name: 'ssaunier'
   title: 'Sebastien home'
   description: 'Charming room in Paris'
+  wifi: false
   rating: 3
 
-- city: 'Barcelona'
+monsieurpaillard:
+  city: 'London'
+  country: 'UK'
+  first_name: 'Monsieur'
+  last_name: 'Paillaird'
+  title: Romain's home
+  description: Nice flat in Piccadilly
+  wifi: true
+  rating: 5
+
+
+slopez:
+  city: 'Barcelona'
   country: 'Spain'
   first_name: 'Sanchez'
   last_name: 'Lopez'
-  user_name: 'slopez'
   title: 'Sanchez home'
   description: 'Charming room in Madrid'
+  wifi: false
   rating: 2
 
-- city: 'London'
+mclean:
+  city: 'Oxford'
   country: 'UK'
   first_name: 'Andrew'
   last_name: 'McLean'
-  user_name: 'mclean'
   title: 'Andrews home'
   description: 'Charming room in London'
+  wifi: true
   rating: 5
+
+lucca:
+  city: 'Lausanne'
+  country: 'Switzerland'
+  first_name: 'Lucca'
+  last_name: 'Kaiser'
+  title: 'Luccas home'
+  description: 'Charming room in Lausanne'
+  wifi: false
+  rating: 2
+
+
+
